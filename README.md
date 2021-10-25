@@ -1,4 +1,7 @@
 # neft
+#Clone Fullstack School
+
+![Screenshot from 2021-10-25 20-48-04](https://user-images.githubusercontent.com/37931222/138708333-6048c043-8819-453b-9af5-8cae7c8a7ed5.png)
 
 A new Flutter project.
 
